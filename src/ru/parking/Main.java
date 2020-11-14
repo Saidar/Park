@@ -17,6 +17,12 @@ public class Main {
         QueGenerator queGenerator = new QueGenerator();
         OutGenerator outGenerator = new OutGenerator();
         Logger logger = new Logger();
+        Logger logger1 = new Logger();
+        Logger logger2 = new Logger();
+        Logger logger3 = new Logger();
+
+
+
 
 
     }
